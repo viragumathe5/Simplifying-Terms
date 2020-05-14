@@ -31,7 +31,7 @@ A set of multiple vectors or Space consisting of multiple vectors which are asso
 
 ## Why Word to Vec
 
-In NLP we really play's with the words, from their formation to their contexts so for that we need some menthod to do the transaction between vectors but the problem is, we have a great system to do the transaction between the numbers but we are not able to do the math with words like we dont know what will we get after doing __lion + tiger__. So there we need some mathematical method which will do these transaction for us thet's where we need __word vectors__. Once we get the word vectors then we can add them sutract them or do whatever we want.
+In NLP we really play with the words, from their formation to their contexts so for that we need some menthod to do the transaction between vectors but the problem is, we have a great system to do the transaction between the numbers but we are not able to do the math with words like we dont know what will we get after doing __lion + tiger__. So there we need some mathematical methods which will do these transaction for us thet's where we need __word vectors__. Once we get the word vectors then we can add them sutract them or do whatever we want.
 
 ## What we can do with word vectors
 For explaination please refer following table.
@@ -58,7 +58,7 @@ we can plot this table as
 now from this information we can relate the persons.
 
 ## Distributional Semantics in Sentence
-Sematics are the smallest entity of the sentence they are complete in their own. Each consists of their own meaning and context for the sentence.
+Sematic are the smallest entity of the sentence they are complete in their own. Each consists of their own meaning and context for the sentence.
 
 Actually the [Distributional Semantic](https://en.wikipedia.org/wiki/Distributional_semantics) is the specialized area for the picking of the semantic similarities in the corpus.
 There is one base for the Distributional Semantic which is Distributional Hypothesis and it states
@@ -76,7 +76,7 @@ So I have a very famous dialogue from the Infinity War
 
 <b><div align = "center">"Part of the journey is the end"</div></b>
 
-so now let's have a big spreadshit which has every row's as a word from the dialogue and column for every possible context.
+so now let's have a big spreadsheet which has every row's as a word from the dialogue and column for every possible context.
 
 | Word   | START...of | Part...the | of...journey | the...is | journey...the | is...end | the...END |
 |:------:|:----------:|:----------:|:------------:|:--------:|:-------------:|:--------:|:---------:|
@@ -99,7 +99,7 @@ The spreadsheet represents the vector for the word the word and their vectors ar
 |end     |[0, 0, 0, 0, 0, 0, 1] |
 
 
-There are presently 7 context in the above sentences thats why why we are dealing with seven dimentations here. Seven dimentations is not a big deal for the vector arithmetics.
+There are presently 7 context in the above sentences thats why we are dealing with seven dimentations here. Seven dimentations is not a big deal for the vector arithmetics.
 
 But while dealing with the large corpus there must be a high dimentations to deal with so there are two possibilities which are 
 1. Increasing the computation power
