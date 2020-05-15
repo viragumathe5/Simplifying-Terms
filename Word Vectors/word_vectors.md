@@ -126,7 +126,7 @@ Otherwise The Stanford Provides their own datasets for pre-trained vectors
 You can search for different applications on word vectors and you will get innumrous results.
 I was really worried about the word to vec as I barely understad anything about it and thats why I keep in fear about NLP.
 
-I really thnkful to [Allison Parrish](http://www.decontextualize.com/) who wrote a wounderful explanation on word vectors. If you understand the word vectors clearly and want to go more deeper I really would like to reffer this [notebook](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
+I really thnkful to [Allison Parrish](http://www.decontextualize.com/) who wrote a wounderful explanation on word vectors. If you understand the word vectors clearly and want to go more deeper I really would like to refer this [notebook](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
 
 For keeping this simple I did not wrote any coding part here as it is really needed to understand it first. 
 I am working on another text which will take through the coding part in its simplest.
