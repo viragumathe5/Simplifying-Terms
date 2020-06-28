@@ -53,7 +53,7 @@ So according to the SVD we can write as
 
 And here U is the orthogonal matrix S is the diagonal matrix and V.T is also a diagonal matrix or physically can understand it as rotation stretching and rotation. So you can visualize these matrices as follows.
 
-![matrix_representation](images/mat_form.jpg)
+![matrix_representation](mat_form.jpg)
 
 
 I think no need to explain this figure 
@@ -73,35 +73,35 @@ So I took an image (2732 x 2732) pixels into a matrix and apply SVD on it and th
 
 So I took an image (2732 x 2732)
 
-![flower](images/flower.jpg)
+![flower](flower.jpg)
 
 convert it into grayscale
 
-![flower](images/flower_gray.jpg)
+![flower](flower_gray.jpg)
 
 Apply SVD and get U, s, V.T matrices and plot the image for
 
 σ = 5,
 You can clearly state that this is a picture of the bloomed flower 
 
-![flower](images/for_value_=_5.jpg)
+![flower](for_value_=_5.jpg)
 
 σ = 20,
 By increased value of σ the quality of image improved  
 
-![flower](images/for_value_=_20.jpg)
+![flower](for_value_=_20.jpg)
 
 σ = 100, Now petals and other inner filaments can be clearly seen 
 
-![flower](images/for_value_=_100.jpg)
+![flower](for_value_=_100.jpg)
 
 σ = 1000,its almost like original picture 
 
-![flower](images/for_value_=_1000.jpg)
+![flower](for_value_=_1000.jpg)
 
 σ = 2732, original picture. 
 
-![flower](images/for_value_=_2732.jpg)
+![flower](for_value_=_2732.jpg)
 
 
 One thing that is important to conclude is by increasing value of σ the quality has improved but at the larger values very less quality difference is observed like for σ = 1000 and σ = 2792 the pictures are similar so as the value of σ increases there is no much difference in quality as σ1 >= σ2 >= σ3 ... > 0
