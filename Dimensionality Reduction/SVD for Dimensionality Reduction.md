@@ -136,5 +136,5 @@ It,s nice if you want to read more about SVD and Dimensionality Reduction
 
 ## Post Reading acknowledged :)
 
-Thank you so much for reading this, please give me feedback on this on my [mail](viragumathe5@gmail.com)
+Thank you so much for reading this, please give me feedback on this on my mail
 
