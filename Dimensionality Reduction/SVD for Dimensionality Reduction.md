@@ -73,35 +73,35 @@ So I took an image (2732 x 2732) pixels into a matrix and apply SVD on it and th
 
 So I took an image (2732 x 2732)
 
-![flower](flower.jpg)
+![flower](images/flower.JPG)
 
 convert it into grayscale
 
-![flower](flower_gray.jpg)
+![flower](images/flower_gray.JPG)
 
 Apply SVD and get U, s, V.T matrices and plot the image for
 
 σ = 5,
 You can clearly state that this is a picture of the bloomed flower 
 
-![flower](for_value_=_5.jpg)
+![flower](images/for_value_=_5.JPG)
 
 σ = 20,
 By increased value of σ the quality of image improved  
 
-![flower](for_value_=_20.jpg)
+![flower](images/for_value_=_20.JPG)
 
 σ = 100, Now petals and other inner filaments can be clearly seen 
 
-![flower](for_value_=_100.jpg)
+![flower](images/for_value_=_100.JPG)
 
 σ = 1000,its almost like original picture 
 
-![flower](for_value_=_1000.jpg)
+![flower](images/for_value_=_1000.JPG)
 
 σ = 2732, original picture. 
 
-![flower](for_value_=_2732.jpg)
+![flower](images/for_value_=_2732.JPG)
 
 
 One thing that is important to conclude is by increasing value of σ the quality has improved but at the larger values very less quality difference is observed like for σ = 1000 and σ = 2792 the pictures are similar so as the value of σ increases there is no much difference in quality as σ1 >= σ2 >= σ3 ... > 0
