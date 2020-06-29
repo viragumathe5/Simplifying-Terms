@@ -53,7 +53,7 @@ So according to the SVD we can write as
 
 And here U is the orthogonal matrix S is the diagonal matrix and V.T is also a diagonal matrix or physically can understand it as rotation stretching and rotation. So you can visualize these matrices as follows.
 
-![matrix_representation](mat_form.jpg)
+![matrix_representation](mat_form.JPG)
 
 
 I think no need to explain this figure 
