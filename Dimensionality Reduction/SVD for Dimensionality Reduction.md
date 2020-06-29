@@ -129,7 +129,7 @@ It,s nice if you want to read more about SVD and Dimensionality Reduction
 * Free Materials
     -  Dr. Steve Brunton is the Professor at the University of Washington he has a really nice channel on Data-Driven approach for Data Science you can visit it [here](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw) 
 
-    - For Linear Algebra and more insides about SVD, there is no better than Dr. Gilbert Strang watch his free lectures here [here](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
+    - For Linear Algebra and more insides about SVD, there is no better than Dr. Gilbert Strang watch his free lectures [here](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
 
     - For practice on SVD and other Dimensionality Reduction try [this](http://infolab.stanford.edu/~ullman/mmds/ch11.pdf) from Standford Infolab
 
