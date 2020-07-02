@@ -1,6 +1,6 @@
 # Introduction
 
-We all share the same love towards Data Science, and really knows the importance of the dataset what algorithm it is? which learning it is?, data is really important for us. Simple predictive and information-rich data is always loved by everyone. But at the same time everyone really hates the data cleaning and all kinds of stuff and in addition to that if the data is not predictive or like meaningless to for the model then its like a nightmare to everyone.
+We all share the same love towards Data Science, and really knows the importance of the dataset, what algorithm it may be? which learning it may be?, data is really important for us. Simple predictive and information-rich data is always loved by everyone. But at the same time everyone really hates the data cleaning and all kinds of stuff and in addition to that if the data is not predictive or like meaningless to for the model then its like a nightmare to everyone.
 
 Also sometimes the high dimensionality makes the thing more complex and computations more worse. So to deal with higher dimensions in the datasets we need to do the Dimensionality Reduction (I mentioned this term in Simplifying Word Vectors). So there are many ways to deal with dimensions like Principal Component Analysis, CUR decomposition, and Singular Value decomposition(SVD). So I am writing this blog for SVD as here too I got some problems with understanding this, though SVD and CUR Decomposition is similar just CUR Decomposition is preferred for low-rank matrices.
 
