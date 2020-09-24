@@ -46,7 +46,7 @@ I hope from this example you understand why redundant or null data is harmful to
 
 ## SVD and its representation
 
-singular value decomposition or SVD is like bone data engineers to deal with redundant or null data in the dataset. SVD is the way of breaking up a matrix into 3 pieces. So every rectangular matric can be factorized into 3 factors so let them generally called as U, Ʃ, and V.T(V.T represents the transpose of matrix V). I used here generalized notations so for this explanation lets call Ʃ as s matrix ok... 
+Singular value decomposition or SVD is like bone data engineers to deal with redundant or null data in the dataset. SVD is the way of breaking up a matrix into 3 pieces. So every rectangular matric can be factorized into 3 factors so let them generally called as U, Ʃ, and V.T(V.T represents the transpose of matrix V). I used here generalized notations so for this explanation lets call Ʃ as s matrix ok... 
 
 So according to the SVD we can write as 
 <center>A = U * s * V.T</center>
